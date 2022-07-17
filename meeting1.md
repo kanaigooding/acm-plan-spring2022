@@ -14,6 +14,11 @@ Research on our current finance situation.  Do we have a bank account? Etc?
 ```
 Current Board
 Current SIG Leadership (1 per sig)
+ - Abdullah  (PANDA)
+ - GH President (Patima? I think)
+ - SWITCH????
+ - Game dev?
+New Board Members (invites: Amanda Nitta)
 ```
 ### Agenda
 - [ ] Introductions
