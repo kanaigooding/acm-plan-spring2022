@@ -3,15 +3,15 @@
 ## Todo
 - [ ] Filter Emails
   - Sort by Opportunities, Important Internal Comms [ ], delete the rest
-  - Assigned:
-  - Due:
+  - Assigned: Jake 7/18/22
+  - Due: ?
   - Completed
 - [ ] Write Constitution
   - Assigned:
   - Due:
   - Completed:
 - [ ] Apply for renewal of UH Emails
-  - Assigned:
+  - Assigned: 
   - Due:
   - Completed:
 - [ ] Apply for RIO status
